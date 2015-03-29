@@ -1,0 +1,8 @@
+registration/web/.settings/
+*.classpath
+registration/web/target/classes/
+registration/model/.settings/
+registration/.settings/
+registration/dao/.settings/
+registration/dao/target/classes/
+registration/model/target/
